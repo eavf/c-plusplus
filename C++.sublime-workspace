@@ -1,0 +1,782 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pri",
+				"priezvisko"
+			],
+			[
+				"zn",
+				"znamka"
+			],
+			[
+				"get",
+				"getname"
+			],
+			[
+				"p_s",
+				"p_sisky"
+			],
+			[
+				"pr",
+				"pr_vaha"
+			],
+			[
+				"p_",
+				"pr_vaha"
+			],
+			[
+				"pr_",
+				"pr_vyska"
+			],
+			[
+				"apt",
+				"apt-list"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/vovo/Linuxprginterface/proc/mem_segments.c",
+			"settings":
+			{
+				"buffer_size": 2010,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/vovo/aktual.sh",
+			"settings":
+			{
+				"buffer_size": 458,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "addprtns.cpp",
+			"settings":
+			{
+				"buffer_size": 1237,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ptrstr.cpp",
+			"settings":
+			{
+				"buffer_size": 1020,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "newdynstruct.cpp",
+			"settings":
+			{
+				"buffer_size": 585,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pokusukaz.cpp",
+			"settings":
+			{
+				"buffer_size": 1880,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "PRPC4-1-string.cpp",
+			"settings":
+			{
+				"buffer_size": 1035,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/usr/include/c++/4.9/cstring",
+			"settings":
+			{
+				"buffer_size": 3123,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/usr/include/string.h",
+			"settings":
+			{
+				"buffer_size": 22663,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/usr/include/c++/4.9/iostream",
+			"settings":
+			{
+				"buffer_size": 2695,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/usr/include/x86_64-linux-gnu/c++/4.9/bits/c++config.h",
+			"settings":
+			{
+				"buffer_size": 48358,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/usr/include/c++/4.9/ostream",
+			"settings":
+			{
+				"buffer_size": 19655,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/usr/include/c++/4.9/ios",
+			"settings":
+			{
+				"buffer_size": 1602,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/usr/include/c++/4.9/istream",
+			"settings":
+			{
+				"buffer_size": 29870,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 72.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 461.0,
+		"history":
+		[
+			"find iostream",
+			"cat iostream",
+			"iostream"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/usr/include/c++/4.9/bits/ios_base.h",
+		"/home/vovo/C++/arraynew.cpp",
+		"/home/vovo/C++/use_new.cpp",
+		"/home/vovo/C++/init_ptr.cpp",
+		"/home/vovo/C++/adresy.cpp",
+		"/home/vovo/C++/pointer.cpp",
+		"/home/vovo/C++/convers_skus.cpp",
+		"/home/vovo/C++/konverzia.cpp",
+		"/home/vovo/C++/modulus.cpp",
+		"/home/vovo/C++/delenie.cpp",
+		"/home/vovo/C++/arith.cpp",
+		"/home/vovo/C++/fltadd.cpp",
+		"/home/vovo/C++/float.cpp",
+		"/home/vovo/arduino-1.6.5-r5/hardware/tools/avr/lib/gcc/avr/4.8.1/plugin/include/config.h",
+		"/home/vovo/Downloads/xc16-v1.31-full-install-linux-installer.run",
+		"/home/vovo/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"cin",
+			"__THROW __attribute_pure__",
+			"strlen",
+			"iostream"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/vovo/Linuxprginterface/proc/mem_segments.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2010,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1382,
+								1382
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/vovo/aktual.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 458,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								354,
+								354
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "addprtns.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1237,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								406,
+								406
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "ptrstr.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1020,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1020,
+								1020
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 13.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "newdynstruct.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 585,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								585,
+								585
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "pokusukaz.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1880,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1091,
+								1091
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 258.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "PRPC4-1-string.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1035,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								805,
+								805
+							]
+						],
+						"settings":
+						{
+							"rulers":
+							[
+								80
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 7,
+					"file": "/usr/include/c++/4.9/cstring",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3123,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2545,
+								2545
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 768.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/usr/include/string.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22663,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2274,
+								2274
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 207.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/usr/include/c++/4.9/iostream",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2695,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1342,
+								1342
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 240.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/usr/include/x86_64-linux-gnu/c++/4.9/bits/c++config.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 48358,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 19860.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/usr/include/c++/4.9/ostream",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19655,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 516.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/usr/include/c++/4.9/ios",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1602,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								824,
+								824
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 656.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/usr/include/c++/4.9/istream",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 29870,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28723,
+								28723
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 6,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.587361677343,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 289.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
